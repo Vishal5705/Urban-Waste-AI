@@ -1,0 +1,9 @@
+City,Waste_Type,Forecast_Year,Forecast_Month,Raw_Predicted_Tons_Per_Day,Estimated_Tons_Per_Day,Priority_Percentile,Collection_Priority,Priority_Rule,Interpretation
+Chennai,Organic,2026,10,2835.7940333333345,2835.79,100.0,High,High >= 75; Medium >= 25 and < 75; Low < 25,City-level waste-type scenario; not an individual-bin estimate
+Chennai,Construction,2026,10,1038.5602666666666,1038.56,87.5,High,High >= 75; Medium >= 25 and < 75; Low < 25,City-level waste-type scenario; not an individual-bin estimate
+Chennai,Plastic,2026,10,784.5491333333333,784.55,75.0,High,High >= 75; Medium >= 25 and < 75; Low < 25,City-level waste-type scenario; not an individual-bin estimate
+Chennai,Paper,2026,10,533.369599999999,533.37,62.5,Medium,High >= 75; Medium >= 25 and < 75; Low < 25,City-level waste-type scenario; not an individual-bin estimate
+Chennai,Glass,2026,10,179.60106666666624,179.6,50.0,Medium,High >= 75; Medium >= 25 and < 75; Low < 25,City-level waste-type scenario; not an individual-bin estimate
+Chennai,Metal,2026,10,171.18193333333303,171.18,37.5,Medium,High >= 75; Medium >= 25 and < 75; Low < 25,City-level waste-type scenario; not an individual-bin estimate
+Chennai,Hazardous,2026,10,138.68253333333297,138.68,25.0,Medium,High >= 75; Medium >= 25 and < 75; Low < 25,City-level waste-type scenario; not an individual-bin estimate
+Chennai,Biomedical,2026,10,99.38400000000017,99.38,12.5,Low,High >= 75; Medium >= 25 and < 75; Low < 25,City-level waste-type scenario; not an individual-bin estimate

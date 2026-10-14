@@ -1,0 +1,4 @@
+Method,Distance_km
+CSV-order baseline,86.631
+Nearest-neighbor baseline,27.138
+OR-Tools optimized,23.382
